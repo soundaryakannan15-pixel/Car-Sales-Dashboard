@@ -1,0 +1,31 @@
+DATA SOURCE – CAR SALES DASHBOARD PROJECT
+
+All sales numbers used in this Power BI dashboard are REAL values collected from
+publicly available and trusted automotive and government websites.
+
+MONTHLY SALES DATA (Real Values):
+
+Collected from multiple automotive analysis websites:
+
+1. Autopunditz  
+   https://autopunditz.com/
+
+2. Team-BHP  
+   https://www.team-bhp.com/
+
+3. RushLane  
+   https://www.rushlane.com/
+
+ANNUAL SALES DATA (Real Official Values):
+
+Collected from the official Government of India vehicle registration portal:
+
+4. VAHAN Parivahan  
+   https://vahan.parivahan.gov.in/
+
+The required year-wise and month-wise sales information was extracted from several
+articles, reports, and published statistics across these websites. All data was
+compiled, cleaned, and structured for analysis in Power BI.
+
+Note:
+All values used in this project are real publicly available numbers.
